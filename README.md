@@ -11,21 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=EtnaStar&color=8A2BE2&style=for-the-badge&label=Visitas+·+Profile+Views"/>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <a href="#-versión-en-español">
-    <img src="https://img.shields.io/badge/🇪🇸%20%20Leer%20en%20Español-2C3E50?style=for-the-badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#-read-in-english">
-    <img src="https://img.shields.io/badge/🇺🇸%20%20Read%20in%20English-4A4A4A?style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/🇪🇸%20%20Español-1f6feb?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🇺🇸%20%20English%20%20▼-30363d?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
-
-## 🇪🇸 Versión en Español
 
 Ingeniera en Informática con más de **19 años** de experiencia liderando iniciativas de transformación digital, innovación y arquitectura empresarial. He trabajado en la intersección de la estrategia, la tecnología, la automatización y la experimentación rápida en sectores como **banca, fintech, retail, ONG, manufactura, salud, telecomunicaciones, seguros y sector público**.
 
@@ -35,11 +28,11 @@ Actualmente impulso iniciativas de innovación y experimentación con tecnologí
 
 > 🎯 **Mi enfoque:** convertir ideas estratégicas en soluciones reales, medibles y escalables.
 
-### 🎯 Qué hago
+**🎯 Qué hago**
 
 Ayudo a las organizaciones a diseñar y ejecutar iniciativas de transformación que generan impacto tangible en el negocio, mejoran la toma de decisiones y aceleran la adopción tecnológica.
 
-### 🔹 Áreas de enfoque
+**🔹 Áreas de enfoque**
 
 - Arquitectura Empresarial
 - Laboratorios de Innovación y Experimentación
@@ -51,17 +44,17 @@ Ayudo a las organizaciones a diseñar y ejecutar iniciativas de transformación 
 - Prototipado rápido y validación de soluciones emergentes
 - Gobierno y estrategia tecnológica
 
-### 🚀 Misión actual
+**🚀 Misión actual**
 
 Ayudar a las organizaciones a pasar de la curiosidad tecnológica a la generación de valor, mediante experimentación práctica, prototipado rápido e iniciativas de transformación escalables.
 
 > 💡 **Especialidades:** Innovación · Transformación Digital · Arquitectura Empresarial · Automatización · Inteligencia Artificial Aplicada · Gestión de Portafolios · Liderazgo Tecnológico
 
-<p align="right"><a href="#-read-in-english">🇺🇸 Switch to English ↓</a></p>
-
 ---
 
-## 🇺🇸 Read in English
+<details>
+<summary><b>🇺🇸 Read in English</b></summary>
+<br/>
 
 Computer Engineer with more than **19 years** of experience leading digital transformation, innovation, and enterprise architecture initiatives. I work at the intersection of business strategy, technology, automation, and rapid experimentation across industries including **banking, fintech, retail, NGOs, manufacturing, healthcare, telecommunications, insurance, and the public sector**.
 
@@ -71,11 +64,11 @@ Today, I focus on innovation and emerging technology experimentation, combining 
 
 > 🎯 **My focus:** turning strategic ideas into real, measurable, and scalable solutions.
 
-### 🎯 What I Do
+**🎯 What I Do**
 
 I help organizations design and execute transformation initiatives that create tangible business impact, improve decision-making, and accelerate technology adoption.
 
-### 🔹 Focus Areas
+**🔹 Focus Areas**
 
 - Enterprise Architecture
 - Innovation & Experimentation Labs
@@ -87,13 +80,13 @@ I help organizations design and execute transformation initiatives that create t
 - Rapid Prototyping and Emerging Solution Validation
 - Technology Governance & Strategy
 
-### 🚀 Current Mission
+**🚀 Current Mission**
 
 Helping organizations move from technology curiosity to business value through practical experimentation, rapid prototyping, and scalable transformation initiatives.
 
 > 💡 **Specialties:** Innovation · Digital Transformation · Enterprise Architecture · Intelligent Automation · Applied AI · Portfolio Management · Technology Leadership
 
-<p align="right"><a href="#-versión-en-español">🇪🇸 Cambiar a Español ↑</a></p>
+</details>
 
 ---
 
