@@ -1,16 +1,17 @@
-<h1 align="center">👋 Hola, soy Etna Estrella &nbsp;·&nbsp; Hi, I'm Etna Estrella</h1>
-<h3 align="center">
-  🇪🇸 Ingeniera en Informática · Transformación Digital · Arquitectura Empresarial · IA Aplicada<br/>
-  🇺🇸 Computer Engineer · Digital Transformation · Enterprise Architecture · Applied AI
-</h3>
+<h1 align="center">👋 Hola, soy Etna Estrella</h1>
 
-<br/>
+<p align="center">
+  <a href="https://www.agilizarte.com"><img src="https://img.shields.io/badge/🌐%20agilizarte.com-0A66C2?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/etna-estrella/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:etnaestrella@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/EtnaStar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EtnaStar&color=8A2BE2&style=for-the-badge&label=Visitas+·+Profile+Views"/>
+</p>
 
-## 🇪🇸 Español
+---
 
 Ingeniera en Informática con más de **19 años** de experiencia liderando iniciativas de transformación digital, innovación y arquitectura empresarial. He trabajado en la intersección de la estrategia, la tecnología, la automatización y la experimentación rápida en sectores como **banca, fintech, retail, ONG, manufactura, salud, telecomunicaciones, seguros y sector público**.
 
@@ -19,29 +20,6 @@ He liderado programas de modernización tecnológica, automatización, gobierno 
 Actualmente impulso iniciativas de innovación y experimentación con tecnologías emergentes, combinando visión estratégica y capacidad de ejecución para ayudar a las organizaciones a acelerar su transformación y fortalecer sus capacidades digitales.
 
 > 🎯 **Mi enfoque:** convertir ideas estratégicas en soluciones reales, medibles y escalables.
-
-</td>
-<td width="50%" valign="top">
-
-## 🇺🇸 English
-
-Computer Engineer with more than **19 years** of experience leading digital transformation, innovation, and enterprise architecture initiatives. I work at the intersection of business strategy, technology, automation, and rapid experimentation across industries including **banking, fintech, retail, NGOs, manufacturing, healthcare, telecommunications, insurance, and the public sector**.
-
-I have led technology modernization programs, automation initiatives, IT governance frameworks, data analytics programs, and AI innovation labs, connecting business strategy with technology execution to drive efficiency, scalability, and new value creation opportunities.
-
-Today, I focus on innovation and emerging technology experimentation, combining strategic vision with practical execution to help organizations accelerate transformation and strengthen their digital capabilities.
-
-> 🎯 **My focus:** turning strategic ideas into real, measurable, and scalable solutions.
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### 🎯 Qué hago
 
@@ -53,7 +31,7 @@ Ayudo a las organizaciones a diseñar y ejecutar iniciativas de transformación 
 - Laboratorios de Innovación y Experimentación
 - Estrategia de Transformación Digital
 - Gestión de Portafolio Tecnológico
-- Adopción de IA y Gestión del Cambio
+- Adopción de Inteligencia Artificial y Gestión del Cambio
 - Automatización Inteligente
 - Soluciones basadas en IA Generativa y LLMs
 - Prototipado rápido y validación de soluciones emergentes
@@ -63,8 +41,22 @@ Ayudo a las organizaciones a diseñar y ejecutar iniciativas de transformación 
 
 Ayudar a las organizaciones a pasar de la curiosidad tecnológica a la generación de valor, mediante experimentación práctica, prototipado rápido e iniciativas de transformación escalables.
 
-</td>
-<td width="50%" valign="top">
+> 💡 **Especialidades:** Innovación · Transformación Digital · Arquitectura Empresarial · Automatización · Inteligencia Artificial Aplicada · Gestión de Portafolios · Liderazgo Tecnológico
+
+---
+
+<details>
+<summary>🇺🇸 Read in English</summary>
+
+<br/>
+
+Computer Engineer with more than **19 years** of experience leading digital transformation, innovation, and enterprise architecture initiatives. I work at the intersection of business strategy, technology, automation, and rapid experimentation across industries including **banking, fintech, retail, NGOs, manufacturing, healthcare, telecommunications, insurance, and the public sector**.
+
+I have led technology modernization programs, automation initiatives, IT governance frameworks, data analytics programs, and AI innovation labs, connecting business strategy with technology execution to drive efficiency, scalability, and new value creation opportunities.
+
+Today, I focus on innovation and emerging technology experimentation, combining strategic vision with practical execution to help organizations accelerate transformation and strengthen their digital capabilities.
+
+> 🎯 **My focus:** turning strategic ideas into real, measurable, and scalable solutions.
 
 ### 🎯 What I Do
 
@@ -86,20 +78,20 @@ I help organizations design and execute transformation initiatives that create t
 
 Helping organizations move from technology curiosity to business value through practical experimentation, rapid prototyping, and scalable transformation initiatives.
 
-</td>
-</tr>
-</table>
+> 💡 **Specialties:** Innovation · Digital Transformation · Enterprise Architecture · Intelligent Automation · Applied AI · Portfolio Management · Technology Leadership
+
+</details>
 
 ---
 
 ### 💡 Especialidades · Specialties
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Innovación%20·%20Innovation-F39C12?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Innovación-F39C12?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformación%20Digital-0078D4?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arquitectura%20Empresarial-2C3E50?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Aplicada%20·%20Applied%20AI-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Generativa%20·%20Generative%20AI-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20Aplicada-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20Generativa-FF6B6B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automatización%20Inteligente-00B894?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gestión%20de%20Portafolios-27AE60?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gobierno%20de%20TI-E67E22?style=for-the-badge&logoColor=white"/>
@@ -113,21 +105,4 @@ Helping organizations move from technology curiosity to business value through p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EtnaStar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtnaStar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### 📫 Contacto · Contact
-
-<p align="center">
-  <a href="mailto:etnaestrella@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/EtnaStar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EtnaStar&color=8A2BE2&style=for-the-badge&label=Visitas+·+Profile+Views"/>
 </p>
