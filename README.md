@@ -13,6 +13,20 @@
 
 ---
 
+<p align="center">
+  <a href="#-versión-en-español">
+    <img src="https://img.shields.io/badge/🇪🇸%20%20Leer%20en%20Español-2C3E50?style=for-the-badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#-read-in-english">
+    <img src="https://img.shields.io/badge/🇺🇸%20%20Read%20in%20English-4A4A4A?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🇪🇸 Versión en Español
+
 Ingeniera en Informática con más de **19 años** de experiencia liderando iniciativas de transformación digital, innovación y arquitectura empresarial. He trabajado en la intersección de la estrategia, la tecnología, la automatización y la experimentación rápida en sectores como **banca, fintech, retail, ONG, manufactura, salud, telecomunicaciones, seguros y sector público**.
 
 He liderado programas de modernización tecnológica, automatización, gobierno de TI, analítica de datos y laboratorios de inteligencia artificial, conectando la estrategia del negocio con la ejecución tecnológica para generar eficiencia, escalabilidad y nuevos modelos de valor.
@@ -43,12 +57,11 @@ Ayudar a las organizaciones a pasar de la curiosidad tecnológica a la generaci�
 
 > 💡 **Especialidades:** Innovación · Transformación Digital · Arquitectura Empresarial · Automatización · Inteligencia Artificial Aplicada · Gestión de Portafolios · Liderazgo Tecnológico
 
+<p align="right"><a href="#-read-in-english">🇺🇸 Switch to English ↓</a></p>
+
 ---
 
-<details>
-<summary>🇺🇸 Read in English</summary>
-
-<br/>
+## 🇺🇸 Read in English
 
 Computer Engineer with more than **19 years** of experience leading digital transformation, innovation, and enterprise architecture initiatives. I work at the intersection of business strategy, technology, automation, and rapid experimentation across industries including **banking, fintech, retail, NGOs, manufacturing, healthcare, telecommunications, insurance, and the public sector**.
 
@@ -80,7 +93,7 @@ Helping organizations move from technology curiosity to business value through p
 
 > 💡 **Specialties:** Innovation · Digital Transformation · Enterprise Architecture · Intelligent Automation · Applied AI · Portfolio Management · Technology Leadership
 
-</details>
+<p align="right"><a href="#-versión-en-español">🇪🇸 Cambiar a Español ↑</a></p>
 
 ---
 
